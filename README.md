@@ -1,2 +1,2 @@
 # Python-Projects
-Python Projects that I have made
+Python mini projects to get familiar with the language
